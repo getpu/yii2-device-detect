@@ -1,0 +1,18 @@
+{
+  "name": "getpu/yii2-device-detect",
+  "description": "Yii2 extension for Mobile-Detect library",
+  "type": "yii2-extension",
+  "keywords": ["yii2","extension","widget","device","detect","mobile","phone","tablet","desktop"],
+  "license": "GNU General Public License v3",
+  "authors": [
+    {
+      "name": "getpu",
+      "email": "getpu@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "getpu\\devicedetect\\": "src"
+    }
+  }
+}
